@@ -36,7 +36,7 @@ This project is a sample for you to learn how to combine Microsoft Azure IoT Edg
 
 ## Content
 
-1. [How to Create an Aotunomouse Drone Module on IoT Edge](doc/HowtoCreateAnAotunomouseDroneModuleonIoTEdge)
+1. [How to Create an Aotunomouse Drone Module on IoT Edge](doc/HowtoCreateAnAotunomouseDroneModuleonIoTEdge.md)
 2. [How to Use an Azure Blob Storage on IoT Edge](doc/HowToUseAzureBlobStorage.md)
 3. [How To Use Azure Custom Visi on Service](doc/HowToUseAzureCustomVisionService.md)
 
