@@ -14,11 +14,11 @@ or whether a parking garage has available parking spots in a row. These insights
 
 In this tutorial, you will learn how to
 
-- [Build an image classifier with Custom Vision](https://github.com/LiangJy123/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#build-an-image-classifier-with-custom-vision).
-- [Create an IoT Edge solution](https://github.com/LiangJy123/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#create-an-iot-edge-solution).
-- [Build and deploy your IoT Edge solution](https://github.com/LiangJy123/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#build-and-deploy-your-iot-edge-solution).
-- [Evaluate the result on UWP](https://github.com/LiangJy123/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#evaluate-the-results-on-uwp).
-- [Send the results of the image classifier to IoT Hub](https://github.com/LiangJy123/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#send-the-results-of-image-classifier-to-iot-hub).
+- [Build an image classifier with Custom Vision](https://github.com/dji-sdk/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#build-an-image-classifier-with-custom-vision).
+- [Create an IoT Edge solution](https://github.com/dji-sdk/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#create-an-iot-edge-solution).
+- [Build and deploy your IoT Edge solution](https://github.com/dji-sdk/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#build-and-deploy-your-iot-edge-solution).
+- [Evaluate the result on UWP](https://github.com/dji-sdk/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#evaluate-the-results-on-uwp).
+- [Send the results of the image classifier to IoT Hub](https://github.com/dji-sdk/DJI-IotEdge/blob/master/doc/HowToUseAzureCustomVisionService.md#send-the-results-of-image-classifier-to-iot-hub).
 
 ## Prerequisites
 

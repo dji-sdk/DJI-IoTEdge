@@ -36,9 +36,9 @@ This project is a sample for you to learn how to combine Microsoft Azure IoT Edg
 
 ## Content
 
-1. [How to Create an Aotunomouse Drone Module on IoT Edge](doc/HowtoCreateAnAotunomouseDroneModuleonIoTEdge.md)
+1. [How to Create an Aotunomouse Drone Module on IoT Edge](doc/HowToCreateAnAotunomouseDroneModuleOnIoTEdge.md)
 2. [How to Use an Azure Blob Storage on IoT Edge](doc/HowToUseAzureBlobStorage.md)
-3. [How To Use Azure Custom Visi on Service](doc/HowToUseAzureCustomVisionService.md)
+3. [How To Use Azure Custom Vision on Service](doc/HowToUseAzureCustomVisionService.md)
 
 [1]:https://github.com/dji-sdk/Windows-SDK
 [2]:https://docs.microsoft.com/en-us/azure/iot-edge/quickstart
