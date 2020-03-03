@@ -148,7 +148,7 @@ else
 }
 ```
 
-More details in [FPVPage.xaml.cs](https://github.com/LiangJy123/DJI-IotEdge/blob/master/DJIUWPSampleCode/DJIWindowsSDKSample/FPV/FPVPage.xaml.cs).
+More details in [FPVPage.xaml.cs](https://github.com/dji-sdk/DJI-IotEdge/blob/master/DJIUWPSampleCode/DJIWindowsSDKSample/FPV/FPVPage.xaml.cs).
 
 #### Create the container and set permissions
 
